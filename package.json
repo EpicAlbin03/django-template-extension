@@ -1,5 +1,5 @@
 {
-  "name": "django-template-extension",
+  "name": "django-template-extension-albin",
   "displayName": "Django/Jinja Template Support",
   "version": "1.2.2",
   "main": "dist/extension.js",
